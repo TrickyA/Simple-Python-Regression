@@ -1,5 +1,5 @@
 # Simple-Python-Regression
-Relationship between countries GDP per capita and Life Expectancy
+Correlation and regression relationship between countries GDP per capita and Life Expectancy
 
 For this project, I would like to see if there is a relationship between the GDP per capita of a country and the life expectancy of its citizens.
 
